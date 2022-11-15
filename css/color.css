@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+:root {
+    --profile-color: lightgray;
+    --article-color: lightcyan;
+    --color-lightgray: #e0e0e0;
+    --color-gray: #979797;
+    --color-red: rgb(219, 36, 36);
+}
