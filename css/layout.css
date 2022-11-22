@@ -122,7 +122,13 @@
 }
 
 /* skills */
-.section__skills .skills_icon {padding: 10px;}
+.icons {padding: 10px;}
+
+.icons img {
+    width: 230px;
+    height: 130px;
+    border-radius: 10px;
+}
 
 /* project */
 .team-project {padding: 10px;}
@@ -145,6 +151,7 @@
 .great__thumbnail--1 {
     width: 100%;
     height: 100%;
+    border-radius: 10px;
     transition: filter 0.3s ease-in-out;
 }
 
